@@ -1,0 +1,1 @@
+# trivial-graph-algorithms
