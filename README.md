@@ -1,1 +1,4 @@
-# trivial-graph-algorithms
+# Trivial Graph Algorithms
+
+1. BFS 
+2. 
