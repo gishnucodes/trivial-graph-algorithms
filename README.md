@@ -1,4 +1,4 @@
 # Trivial Graph Algorithms
 
 1. BFS 
-2. 
+2. DFS
